@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Fisier bla bla bla.
-=======
 Fisier 12341251.
->>>>>>> main
